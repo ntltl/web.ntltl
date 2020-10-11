@@ -8,6 +8,7 @@
 
 * [jsfiddle.net](https://jsfiddle.net/)
 * [codepen.io](https://codepen.io/)
+* [jsbin](https://jsbin.com/)
 
 ## Free resources
 
@@ -15,6 +16,11 @@
 
 * [unsplash.com](https://unsplash.com/)
 * [SVGVIEWER](https://www.svgviewer.dev/) - A SVG viewer online
+
+### API
+
+* [reqres](https://reqres.in/)
+
 
 ## Testing
 
