@@ -25,6 +25,7 @@
 ## Transform/Animation
 
 * [cubic-bezier](https://cubic-bezier.com/#.17,.67,.83,.67)
+* [Ease Visualizer](https://greensock.com/ease-visualizer)
 
 ## Testing
 
